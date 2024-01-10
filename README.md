@@ -1,4 +1,1 @@
-Developed a classic Tic Tac Toe game using HTML,CSS,Javascript.
-The game features a simple user interface allowing two players to take turns placing their marks (X or O) on a 3X3 flex boxes. 
-Implemented logic like Dom-Manipulation,2-D Arrays ,Booleans ,Arrow function,Event-Listeners and disbled functions to detect winning conditions and end the game accordingly.
-Also Implemented features like ResetGame options or Draw-Match options to get a interactive gaming experience on the interface.  
+Developed a classic Tic Tac Toe game using HTML, CSS, and JavaScript. Features a simple user interface with two players taking turns placing their marks (X or O) on a 3x3 grid using flex boxes. Implemented game logic involving DOM manipulation, 2D arrays, booleans, arrow functions, and event listeners for win detection and game management. Includes Reset Game and Draw Match options for an interactive experience.
